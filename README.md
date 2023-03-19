@@ -13,7 +13,8 @@
 
 ---
 
-**detect**
+### **detect**
+
 발견하다, 알아내다, **감지하다**
 
 > 프로그램에 의해서 데이터 착오를 발견하거나 하드웨어 속의 고장을 '검출하는' 것을 표시한다.
@@ -22,7 +23,8 @@ _[출처](https://terms.naver.com/entry.naver?docId=820633&cid=50376&categoryId=
 
 ---
 
-**alias**
+### **alias**
+
 별칭, 별명
 
 > 리눅스/유닉스에서 시스템 명령어를 단축시키기 위해 명령어에 별명을 붙이는 것
@@ -37,7 +39,8 @@ alias copy = 'cp'
 
 ---
 
-**WebGL**
+### **WebGL**
+
 Web Graphics Library의 약자
 
 > 웹상에서 2D 및 3D 그래픽을 렌더링하기 위한 로우레벨 JavaScript API
@@ -55,31 +58,31 @@ Web Graphics Library의 약자
 
 ---
 
-**SSR & CSR**
+### **SSR & CSR**
 
 ---
 
-**Complie**
+### **Complie**
 
 ---
 
-**Static & Dynamic**
+### **Static & Dynamic**
 
 ---
 
-**Type Annotation**
+### **Type Annotation**
 
 ---
 
-**HCI**
+### **HCI**
 
 ---
 
-**HOC**
+### **HOC**
 
 ---
 
-**ERD**
+### **ERD**
 
 ---
 
